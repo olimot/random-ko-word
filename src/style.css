@@ -1,0 +1,30 @@
+html {
+  font-family: "나눔명조 옛한글", "나눔명조", "바탕", AppleMyungjo, "Un Batang", serif;
+  font-size: 36px;
+  line-height: 1.4;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input,
+button {
+  font-family: sans-serif;
+  font-size: 83.3333%;
+}
+
+.result {
+  text-align: center;
+  margin: 1em 0;
+}
+
+.entry {
+  display: inline-block;
+  margin: 0 0.25em;
+}
